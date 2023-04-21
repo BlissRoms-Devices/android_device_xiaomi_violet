@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_violet.mk
+    $(LOCAL_DIR)/bliss_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_violet-eng \
-    lineage_violet-userdebug \
-    lineage_violet-user
+    bliss_violet-eng \
+    bliss_violet-userdebug \
+    bliss_violet-user
